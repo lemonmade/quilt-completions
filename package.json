@@ -1,0 +1,16 @@
+{
+  "name": "quilt-completions",
+  "version": "0.0.1",
+  "description": "Atom Autocomplete+ provider and generator for SublimeText completions files for Shopify’s Quilt UI framework.",
+  "main": "./index.js",
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "engines": {
+    "atom": "*"
+  }
+}
