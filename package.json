@@ -1,6 +1,6 @@
 {
   "name": "quilt-completions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Atom Autocomplete+ provider and generator for SublimeText completions files for Shopify’s Quilt UI framework.",
   "main": "./index.js",
   "repository": "https://github.com/lemonmade/quilt-completions",
